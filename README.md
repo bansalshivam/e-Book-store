@@ -4,3 +4,4 @@ The project was designed
 for a college project.
 This project has only just 
 frontend design.
+This webiste have web pages only
