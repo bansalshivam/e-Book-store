@@ -11,3 +11,7 @@ Some HTML5 features remain unsupported by some browsers.
 However, Gecko, and by extension, Firefox, has very good support for HTML5, and work continues toward supporting more of its features. 
 Gecko began supporting some HTML5 features in version 1.8.1. 
 You can find a list of all of the HTML5 features that Gecko currently supports on the main HTML5 page. 
+CSS stands for Cascading Style Sheets
+CSS describes how HTML elements are to be displayed on screen, paper, or in other media
+CSS saves a lot of work. It can control the layout of multiple web pages all at once
+External stylesheets are stored in CSS files
