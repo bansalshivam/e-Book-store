@@ -5,7 +5,7 @@ for a college project.
 This project has only just 
 frontend design.
 This webiste have web pages only
-is the fifth revision and newest version of the HTML standard. 
+HTML5 is the fifth revision and newest version of the HTML standard. 
 It offers new features that provide not only rich media support but also enhance support for creating web applications that can interact with users, their local data, and servers more easily and effectively than was previously possible.
 Some HTML5 features remain unsupported by some browsers. 
 However, Gecko, and by extension, Firefox, has very good support for HTML5, and work continues toward supporting more of its features. 
